@@ -1,2 +1,3 @@
 # IPL-WEB-DEV
-creating a game using html,css,js
+creating a IPL TEAMS
+using html,css,js
